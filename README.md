@@ -1,7 +1,7 @@
 # Data-Science-Project
-## Dat Science Sertification
+## Data Science Sertification
 ## Final Project on Coursera 
-### How to choose theame of project? 
+### SpaceX launches analysys
 ### I need to use difeerent methods
 The stucture of project is:
 1. Cover page (README)
