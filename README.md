@@ -1,8 +1,8 @@
 # Data-Science-Project
-## Data Science Sertification
+## Data Science Certification
 ## Final Project on Coursera 
 ### SpaceX launches analysys
-### I need to use difeerent methods
+### I need to use different methods
 The stucture of project is:
 1. Cover page (README)
 2. Executive summary (with ToC)
