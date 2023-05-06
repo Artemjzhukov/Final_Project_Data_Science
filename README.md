@@ -1,7 +1,7 @@
 # Data-Science-Project
 ## Data Science Certification
 ## Final Project on Coursera 
-### SpaceX launches analysys
+### SpaceX launches analysis
 ### I need to use different methods
 The stucture of project is:
 1. Cover page (README)
